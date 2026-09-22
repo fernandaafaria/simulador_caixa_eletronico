@@ -14,8 +14,8 @@ O sistema conta com um menu interativo em loop (do-while) que oferece as seguint
 - **[4] Sair:** Encerra a sessão do cliente de forma segura.
 
 **Tecnologias e Estruturas Utilizadas**
-- **Java (JDK 8+): Linguagem de programação base (RNF01).
-- **Classe Scanner: Para leitura dinâmica de dados via teclado.
+- **Java (JDK 8+):** Linguagem de programação base (RNF01).
+- **Classe Scanner:** Para leitura dinâmica de dados via teclado.
 - **do-while:** Para garantir o funcionamento contínuo do menu até o comando de saída.
 - **switch case:** Para o roteamento eficiente e limpo das opções do menu.
 - **if / else if:** Para a construção dos algoritmos de validação das lógicas de saques e depósitos.
