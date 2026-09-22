@@ -1,7 +1,7 @@
 Simulador de Caixa Eletrônico (ATM)
 
 
-**Aviso:** O documento original com a Especificação de Requisitos completa (RFs e RNFs) pode ser acessado [clicando aqui](./REQUISITOS.md).
+**Aviso:** O documento original com a Especificação de Requisitos completa (RFs e RNFs) pode ser acessado [clicando aqui](./requisitos.md).
 
 **Sobre o Projeto**
 Este projeto é um Simulador de Caixa Eletrônico operado estritamente via terminal/console. Ele foi desenvolvido como Projeto Integrador para o curso de Desenvolvimento de Sistemas do **SENAI**, com o objetivo principal de unir a teoria e a prática de duas disciplinas fundamentais:
