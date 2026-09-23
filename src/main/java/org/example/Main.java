@@ -20,7 +20,6 @@ public class Main {
             System.out.println("2- Realizar Depósito");
             System.out.println("3- Realizar Saque");
             System.out.println("4- Sair");
-
             System.out.print("Digite sua opção: ");
             opcao = entrada.nextInt();
 
@@ -41,7 +40,6 @@ public class Main {
                         System.out.println("Erro: Valor inválido.");
                     }
                     break;
-
                 case 3:
                     System.out.print("Insira o valor do Saque: R$ ");
                     double saque = entrada.nextDouble();
@@ -55,7 +53,6 @@ public class Main {
                         System.out.println("Saque realizado com sucesso!");
                     }
                     break;
-
                 case 4:
                     System.out.println(nome + ", atendimento encerrado com sucesso!");
                     break;
@@ -64,9 +61,6 @@ public class Main {
                     System.out.println("Erro: Opção Inválida.");
                     break;
             }
-
         } while (opcao != 4);
-
-        entrada.close();
     }
 }
